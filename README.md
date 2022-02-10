@@ -2,7 +2,7 @@
 O projeto tem como objetivo testar SQL Injection em páginas web, injetando comandos de diferentes bancos SQL e esperando o retorno, se não houver, a página passou no teste.
 
 # Passos
-Para utilizar o software, se faz necessário algumas instalações, são ela:  
+Para utilizar o software, se faz necessário a configuração do ambiente:  
 
 # Python3.7+
 Baixar o instalador python e seguir o tutorial:
