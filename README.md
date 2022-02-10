@@ -2,6 +2,7 @@
 O projeto tem como objetivo testar SQL Injection em páginas web, injetando comandos de diferentes bancos SQL e esperando o retorno, se não houver, a página passou no teste.
 
 Como exemplo, no código será utillizada uma página de teste com a vunerabilidade a ser testada: https://rmauro-failure.herokuapp.com/
+
 Para utilizar o software, se faz necessário a configuração do ambiente:  
 
 # Python3.7+
