@@ -5,7 +5,7 @@ Como exemplo, no código será utillizada uma página de teste com a vunerabilid
 
 Para utilizar o software, se faz necessário a configuração do ambiente:  
 
-# Python3.7+#
+# Python3.7+
 Baixar o instalador python e seguir o tutorial:
 https://python.org.br/instalacao-windows/
 
